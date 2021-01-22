@@ -1,4 +1,13 @@
-### Hi there 👋
+### Sou estudante de Engenharia da computação e atualmente estudando desenvolvimento web e mobile! 👋
+
+#### Tecnologias :computer:
+HTML ~ CSS ~ JavaScript ~ React.js ~ React Native ~ Python
+
+#### Contato :telephone_receiver:
+- [Linkedin](https://www.linkedin.com/in/paulo-hst/)
+- :mailbox_closed: hst.paulo@gmail.com
+
+
 
 <!--
 **paulo-hst/paulo-hst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
