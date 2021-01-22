@@ -1,5 +1,5 @@
 ### Sou estudante de Engenharia da computação e atualmente estudando desenvolvimento web e mobile! 👋
-***
+
 #### Tecnologias :computer:
 HTML ~ CSS ~ JavaScript ~ React.js ~ React Native ~ Python
 
