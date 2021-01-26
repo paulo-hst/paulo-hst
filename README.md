@@ -1,7 +1,12 @@
 ### Sou estudante de Engenharia da computação e atualmente estudando desenvolvimento web e mobile! 👋
 
 #### Tecnologias :computer:
-HTML ~ CSS ~ JavaScript ~ React.js ~ React Native ~ Python
+HTML
+CSS (SASS / Grid)
+JavaScript
+React.js
+React Native
+Python
 
 #### Contato :telephone_receiver:
 - [Linkedin](https://www.linkedin.com/in/paulo-hst/)
