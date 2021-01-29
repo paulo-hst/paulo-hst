@@ -3,15 +3,12 @@
 #### Tecnologias :computer:
 - HTML
 - CSS (SASS / Grid)
-- JavaScript
-- React.js
-- React Native
+- JavaScript (React.js, React Native, Nodejs)
 - Python
 
 #### Contato :telephone_receiver:
 - [Linkedin](https://www.linkedin.com/in/paulo-hst/)
 - :mailbox_closed: hst.paulo@gmail.com
-
 
 
 <!--
