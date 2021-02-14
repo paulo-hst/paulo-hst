@@ -2,8 +2,11 @@
 
 #### Tecnologias :computer:
 - HTML
-- CSS (SASS / Grid)
-- JavaScript (React.js, React Native, Nodejs)
+- CSS 
+- JavaScript
+- React
+- React Native
+- Node.js
 - Python
 
 #### Contato :telephone_receiver:
