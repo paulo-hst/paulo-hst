@@ -1,6 +1,6 @@
 ### Sou estudante de Engenharia da computação e atualmente estudando desenvolvimento web e mobile! 👋
 
-#### Tecnologias :computer:
+#### :computer: O que venho estudando:
 - HTML
 - CSS 
 - JavaScript
@@ -9,7 +9,7 @@
 - Node.js
 - Python
 
-#### Contato :telephone_receiver:
+#### :telephone_receiver: Contato
 - [Linkedin](https://www.linkedin.com/in/paulo-hst/)
 - :mailbox_closed: hst.paulo@gmail.com
 
