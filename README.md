@@ -7,7 +7,6 @@
 - React
 - React Native
 - Node.js
-- Python
 
 #### :telephone_receiver: Contato
 - [Linkedin](https://www.linkedin.com/in/paulo-hst/)
