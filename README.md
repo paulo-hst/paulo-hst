@@ -8,6 +8,9 @@
 - React Native
 - Node.js
 
+#### 🔭 Alguns projetos:
+- [Clique aqui!](https://linktr.ee/hst.paulo)
+
 #### :telephone_receiver: Contato
 - [Linkedin](https://www.linkedin.com/in/paulo-hst/)
 - :mailbox_closed: hst.paulo@gmail.com
