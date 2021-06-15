@@ -5,8 +5,9 @@
 - CSS 
 - JavaScript
 - React
-- React Native
 - Node.js
+- MySQL
+- React Native
 
 #### 🔭 Alguns projetos:
 - [Clique aqui!](https://linktr.ee/hst.paulo)
