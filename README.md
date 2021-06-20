@@ -10,7 +10,12 @@
 - React Native
 
 #### 🔭 Alguns projetos:
-- [Clique aqui!](https://linktr.ee/hst.paulo)
+- [getHub](https://gethub-react.vercel.app/) - Pesquisa de usuários do GitHub.
+- [React Weather](https://desafio-weather.vercel.app/) - Exibe temperatura atual de cidades.
+- [Pokedex](https://pokedex-beige-ten.vercel.app/) - Pesquisa de pokemons.
+- [get.coffee](https://paulo-hst.github.io/get-coffee/) - Desafio de criação de interface responsiva
+- [IMC](https://paulo-hst.github.io/imc/) - Cálculo de IMC (Índice de Massa Corpórea)
+- [dev.finances](https://paulo-hst.github.io/maratona-discover/) - App de controle de finanças
 
 #### :telephone_receiver: Contato
 - [Linkedin](https://www.linkedin.com/in/paulo-hst/)
